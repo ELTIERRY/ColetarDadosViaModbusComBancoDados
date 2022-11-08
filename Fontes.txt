@@ -1,0 +1,7 @@
+dothttps://www.youtube.com/watch?v=dxICJLTb5sc
+https://www.youtube.com/watch?v=ZNG1JiriuMM
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/7.0.0-rc.2.22472.11
+https://www.nuget.org/packages?q=entityframework
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/7.0.0-rc.2.22472.11
+
+"SalesWebMvcContext": "server=localhost;userid=root;password=123456789;database=saleswebmvcappdb"
